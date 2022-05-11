@@ -1,6 +1,6 @@
 # Exercícios e projetos disponibilizados pela plataforma DIO, com C# e Asp.Net
 
-#### Abstraindo um jogo de RPG Usando Orientação a Objetos com C#
+### Abstraindo um jogo de RPG Usando Orientação a Objetos com C#
 Projeto utilizando .NET6
 <br/>
 Comando para criar o projeto: dotnet new console -n RPG
