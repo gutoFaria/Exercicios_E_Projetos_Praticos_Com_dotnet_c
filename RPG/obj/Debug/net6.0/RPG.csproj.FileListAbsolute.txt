@@ -1,0 +1,15 @@
+C:\Dio\RPG\bin\Debug\net6.0\RPG.exe
+C:\Dio\RPG\bin\Debug\net6.0\RPG.deps.json
+C:\Dio\RPG\bin\Debug\net6.0\RPG.runtimeconfig.json
+C:\Dio\RPG\bin\Debug\net6.0\RPG.dll
+C:\Dio\RPG\bin\Debug\net6.0\RPG.pdb
+C:\Dio\RPG\obj\Debug\net6.0\RPG.csproj.AssemblyReference.cache
+C:\Dio\RPG\obj\Debug\net6.0\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\RPG\obj\Debug\net6.0\RPG.AssemblyInfoInputs.cache
+C:\Dio\RPG\obj\Debug\net6.0\RPG.AssemblyInfo.cs
+C:\Dio\RPG\obj\Debug\net6.0\RPG.csproj.CoreCompileInputs.cache
+C:\Dio\RPG\obj\Debug\net6.0\RPG.dll
+C:\Dio\RPG\obj\Debug\net6.0\refint\RPG.dll
+C:\Dio\RPG\obj\Debug\net6.0\RPG.pdb
+C:\Dio\RPG\obj\Debug\net6.0\RPG.genruntimeconfig.cache
+C:\Dio\RPG\obj\Debug\net6.0\ref\RPG.dll
