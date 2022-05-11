@@ -1,1 +1,1 @@
-# Exercicios_E_Projetos_Praticos_Com_dotnet_c
+# Exercícios e projetos acompanhados na plataforma DIO
